@@ -780,7 +780,7 @@ p {
     position:relative;
     margin-top:-25px;
     padding:20px;
-    left: 810px;
+    /* left: 810px; */
 }
 .contact-form h3 {
     color:#838589;
